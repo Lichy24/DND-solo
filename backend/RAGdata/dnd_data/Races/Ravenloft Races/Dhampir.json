@@ -1,0 +1,109 @@
+{
+    "Name": "Dhampir",
+    "Description": "Poised between the worlds of the living and the dead, dhampirs retain their grip on life yet are endlessly tested by vicious hungers. Their ties to the undead grant dhampirs a taste of a vampire’s deathless prowess in the form of increased speed, darkvision, and a life-draining bite.\n",
+    "Dhampir Hungers": {
+        "Dhampir Hungers": [
+            {
+                "d8": "1",
+                "Hunger": "Blood"
+            },
+            {
+                "d8": "2",
+                "Hunger": "Flesh or raw meat"
+            },
+            {
+                "d8": "3",
+                "Hunger": "Cerebral spinal fluid"
+            },
+            {
+                "d8": "4",
+                "Hunger": "Psychic energy"
+            },
+            {
+                "d8": "5",
+                "Hunger": "Dreams"
+            },
+            {
+                "d8": "6",
+                "Hunger": "Life energy"
+            }
+        ]
+    },
+    "Dhampir Origins": {
+        "Dhampir Origins": [
+            {
+                "d8": "1",
+                "Origin": "You are the reincarnation of an ancestor who was a vampiric tyrant."
+            },
+            {
+                "d8": "2",
+                "Origin": "Your pact with a predatory deity, fiend, fey, or spirit causes you to share their hunger."
+            },
+            {
+                "d8": "3",
+                "Origin": "You survived being attacked by a vampire but were forever changed."
+            },
+            {
+                "d8": "4",
+                "Origin": "A parasite lives inside you. You indulge its hunger."
+            },
+            {
+                "d8": "5",
+                "Origin": "Tragedy interrupted your transformation into an immortal."
+            },
+            {
+                "d8": "6",
+                "Origin": "You are a diminished form of an otherworldly being. Slaking your hunger hastens your renewal."
+            },
+            {
+                "d8": "7",
+                "Origin": "One of your parents was a vampire."
+            },
+            {
+                "d8": "8",
+                "Origin": "A radical experiment changed your body, making you reliant on others for vital fluids."
+            }
+        ]
+    },
+    "Dhampir Traits": {
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Increase one ability score by 2 and increase a different one by 1, or increase three different ability scores by 1. If you are replacing your race with this lineage, replace any Ability Score Increase you previously had with this."
+        },
+        "Languages": {
+            "text": "Languages: You can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. If you are replacing your race with this lineage, you retain any languages you had and gain no new languages."
+        },
+        "Creature Type": {
+            "text": "Creature Type: You are a Humanoid."
+        },
+        "Size": {
+            "text": "Size: You are Medium or Small. You choose the size when you gain this lineage."
+        },
+        "Speed": {
+            "text": "Speed: Your walking speed is 35 feet."
+        },
+        "Ancestral Legacy": {
+            "text": "Ancestral Legacy: If you replace a race with this lineage, you can keep the following elements of that race: any skill proficiencies you gained from it and any climbing, flying, or swimming speed you gained from it.\n\nIf you don't keep any of those elements or you choose this lineage at character creation, you gain proficency in two skills of your choice.\n\n",
+            "Addition info": [
+                "If you don't keep any of those elements or you choose this lineage at character creation, you gain proficency in two skills of your choice."
+            ]
+        },
+        "Darkvision": {
+            "text": "Darkvision: You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness as shades of gray."
+        },
+        "Deathless Nature": {
+            "text": "Deathless Nature: You don't need to breathe."
+        },
+        "Spider Climb": {
+            "text": "Spider Climb: You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free."
+        },
+        "Vampiric Bite": {
+            "text": "Vampiric Bite: Your fanged bite is a natural weapon, which counts as a simple melee weapon with which you are proficient. You add your Constitution modifier, instead of your Strength modifier, to the attack and damage rolls when you attack with this bite. It deals 1d4 piercing damage on a hit. While you are missing half or more of your hit points, you have advantage on attack rolls you make with this bite.\n\nWhen you attack with this bite and hit a creature that isn’t a Construct or an Undead, you can empower yourself in one of the following ways of your choice:\n\nYou regain hit points equal to the piercing damage dealt by the bite.\nYou gain a bonus to the next ability check or attack roll you make; the bonus equals the piercing damage dealt by the bite.\n\n\nYou can empower yourself with this bite a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.\n\n",
+            "Addition info": [
+                "When you attack with this bite and hit a creature that isn’t a Construct or an Undead, you can empower yourself in one of the following ways of your choice:\n\nYou regain hit points equal to the piercing damage dealt by the bite.\nYou gain a bonus to the next ability check or attack roll you make; the bonus equals the piercing damage dealt by the bite.\n\n",
+                "You regain hit points equal to the piercing damage dealt by the bite.",
+                "You gain a bonus to the next ability check or attack roll you make; the bonus equals the piercing damage dealt by the bite.",
+                "You can empower yourself with this bite a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+            ]
+        }
+    }
+}

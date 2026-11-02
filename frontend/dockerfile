@@ -1,0 +1,15 @@
+FROM node:24-bookworm-slim
+
+WORKDIR /app
+
+COPY DND_page/package.json ./
+
+RUN npm install
+
+COPY . .
+
+EXPOSE 5173
+
+WORKDIR /app/DND_page
+
+CMD ["npm", "run", "dev", "--", "--host", "0.0.0.0"]

@@ -1,0 +1,34 @@
+{
+    "language-name": "Dwarvish",
+    "racial-speakers": [
+        "Dwarves"
+    ],
+    "letters-translator": {
+        "a": "kgt",
+        "b": "s",
+        "c": "w",
+        "d": "u",
+        "e": "sp",
+        "f": "q",
+        "g": "t",
+        "h": "p",
+        "i": "oz",
+        "j": "f",
+        "k": "c",
+        "l": "j",
+        "m": "d",
+        "n": "n",
+        "o": "okr",
+        "p": "g",
+        "q": "v",
+        "r": "l",
+        "s": "e",
+        "t": "i",
+        "u": "cq",
+        "v": "m",
+        "w": "r",
+        "x": "y",
+        "y": "x",
+        "z": "h"
+    }
+}

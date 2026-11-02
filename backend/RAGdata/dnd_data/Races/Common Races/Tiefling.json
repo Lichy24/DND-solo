@@ -1,0 +1,195 @@
+{
+    "Name": "Tiefling",
+    "Description": "To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling. And to twist the knife, tieflings know that this is because a pact struck generations ago infused the essence of Asmodeus, overlord of the Nine Hells (and many of the other powerful devils serving under him) into their bloodline. Their appearance and their nature are not their fault but the result of an ancient sin, for which they and their children and their children's children will always be held accountable.",
+    "Tiefling Features": {
+        "Info": "To be greeted with stares and whispers, to suffer violence and insult on the street, to see mistrust and fear in every eye: this is the lot of the tiefling. And to twist the knife, tieflings know that this is because a pact struck generations ago infused the essence of Asmodeus, overlord of the Nine Hells (and many of the other powerful devils serving under him) into their bloodline. Their appearance and their nature are not their fault but the result of an ancient sin, for which they and their children and their children's children will always be held accountable.",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Your Charisma score increases by 2."
+        },
+        "Age": {
+            "text": "Age: Tieflings mature at the same rate as humans but live a few years longer."
+        },
+        "Alignment": {
+            "text": "Alignment: Tieflings might not have an innate tendency toward evil, but many of them end up there. Evil or not, an independent nature inclines many tieflings toward a chaotic alignment."
+        },
+        "Size": {
+            "text": "Size: Tieflings are about the same size and build as humans. Your size is Medium."
+        },
+        "Speed": {
+            "text": "Speed: Your base walking speed is 30 feet."
+        },
+        "Darkvision": {
+            "text": "Darkvision: Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray."
+        },
+        "Hellish Resistance": {
+            "text": "Hellish Resistance: You have resistance to fire damage."
+        },
+        "Languages": {
+            "text": "Languages: You can speak, read, and write Common and Infernal."
+        }
+    },
+    "Bloodline of Asmodeus": {
+        "Info": "The tieflings connected to Nessus command the power of fire and darkness, guided by a keener than normal intellect, as befits those linked to Asmodeus himself.",
+        "Source": "Player's Handbook",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Your Intelligence score increases by 1."
+        },
+        "Infernal Legacy": {
+            "text": "Infernal Legacy: You know the Thaumaturgy cantrip. Once you reach 3rd level, you can cast the Hellish Rebuke spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the Darkness spell once. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells."
+        }
+    },
+    "Bloodline of Baalzebul": {
+        "Info": "The crumbling realm of Maladomini is ruled by Baalzebul, who excels at corrupting those whose minor sins can be transformed into acts of damnation. Tieflings linked to this archdevil can corrupt others both physically and psychically.",
+        "Source": "Mordenkainen's Tome of Foes",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Your Intelligence score increases by 1."
+        },
+        "Legacy of Maladomini": {
+            "text": "Legacy of Maladomini: You know the Thaumaturgy cantrip. Once you reach 3rd level, you can cast the Ray of Sickness spell once as a 2nd-level spell with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast cast the Crown of Madness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+        }
+    },
+    "Bloodline of Dispater": {
+        "Info": "The great city of Dis occupies most of Hell's second layer. It is a place where secrets are uncovered and shared with the highest bidder, making tieflings tied to Dispater excellent spies and infiltrators.",
+        "Source": "Mordenkainen's Tome of Foes",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Your Dexterity score increases by 1."
+        },
+        "Legacy of Dis": {
+            "text": "Legacy of Dis: You know the Thaumaturgy cantrip. Once you reach 3rd level, you can cast the Disguise Self spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Detect Thoughts spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+        }
+    },
+    "Bloodline of Fierna": {
+        "Source": "Mordenkainen's Tome of Foes",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Your Wisdom score increases by 1."
+        },
+        "Legacy of Phlegethos": {
+            "text": "Legacy of Phlegethos: You know the Friends cantrip.When you reach 3rd level, you can cast the Charm Personspell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Suggestion spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+        }
+    },
+    "Bloodline of Glasya": {
+        "Source": "Mordenkainen's Tome of Foes",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Your Dexterity score increases by 1."
+        },
+        "Legacy of Malbolge": {
+            "text": "Legacy of Malbolge: You know the Minor Illusion cantrip. When you reach 3rd level, you can cast the Disguise Self spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Invisibility spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+        }
+    },
+    "Bloodline of Levistus": {
+        "Source": "Mordenkainen's Tome of Foes",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Your Constitution score increases by 1."
+        },
+        "Legacy of Stygia": {
+            "text": "Legacy of Stygia: You know the Ray of Frost cantrip. When you reach 3rd level, you can cast the Armor of Agathys spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Darkness spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+        }
+    },
+    "Bloodline of Mammon": {
+        "Info": "The great miser Mammon loves coins above all else. Tieflings tied to him excel at gathering and safeguarding wealth.",
+        "Source": "Mordenkainen's Tome of Foes",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Your Intelligence score increases by 1."
+        },
+        "Legacy of Minauros": {
+            "text": "Legacy of Minauros: You know the Mage Hand cantrip. When you reach 3rd level, you can cast the Tenser's Floating Disk spell once with this trait and regain the ability to do so when you finish a short or long rest. When you reach 5th level, you can cast the Arcane Lock spell once with this trait, requiring no material component, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+        }
+    },
+    "Bloodline of Mephistopheles": {
+        "Info": "In the frozen realm of Cania, Mephistopheles offers arcane power to those who entreat with him. Tieflings linked to him master some arcane magic.",
+        "Source": "Mordenkainen's Tome of Foes",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Your Intelligence score increases by 1."
+        },
+        "Legacy of Cania": {
+            "text": "Legacy of Cania: You know the Mage Hand cantrip. When you reach 3rd level, you can cast the Burning Hands spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Flame Blade spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+        }
+    },
+    "Bloodline of Zariel": {
+        "Info": "Tieflings with a blood tie to Zariel are stronger than the typical tiefling and receive magical abilities that aid them in battle.",
+        "Source": "Mordenkainen's Tome of Foes",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Your Strength score increases by 1."
+        },
+        "Legacy of Avernus": {
+            "text": "Legacy of Avernus: You know the Thaumaturgy cantrip. When you reach 3rd level, you can cast the Searing Smite spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Branding Smite spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells."
+        }
+    },
+    "Tiefling Variants": {
+        "Info": "Since not all tieflings are of the blood of Asmodeus, some have traits that differ from those in the Player's Handbook. The Dungeon Master may permit the following variants for your tiefling character, although Devil's Tongue, Hellfire, and Winged are mutually exclusive.",
+        "Source": "Sword Coast Adventurer's Guide",
+        "Appearance": {
+            "text": "Appearance: Your tiefling might not look like other tieflings. Rather than having the physical characteristics described in the Player's Handbook, choose 1d4 + 1 of the following features: small horns; fangs or sharp teeth; a forked tongue; catlike eyes; six fingers on each hand; goat-like legs; cloven hoofs; a forked tail; leathery or scaly skin; red or dark blue skin; cast no shadow or reflection; exude a smell of brimstone."
+        },
+        "Feral": {
+            "text": "Feral: Your Intelligence score increases by 1, and your Dexterity score increases by 2. This trait replaces the Ability Score Increase trait"
+        },
+        "Devil's Tongue": {
+            "text": "Devil's Tongue: You know the Vicious Mockery cantrip. Once you reach 3rd level, you can cast the Charm Person spell once as a 2nd-level spell. Once you reach 5th level, you can also cast the Enthrall spell once. You must finish a long rest to cast these spells again with this trait. Charisma is your spellcasting ability for these spells. This trait replaces the Infernal Legacy trait"
+        },
+        "Hellfire": {
+            "text": "Hellfire: Once you reach 3rd level, you can cast the Burning Hands spell once as a 2nd-level spell. This trait replaces the Hellish Rebuke spell of the Infernal Legacy trait."
+        },
+        "Winged": {
+            "text": "Winged: You have bat-like wings sprouting from your shoulders. You have a flying speed of 30 feet while you aren’t wearing heavy armor. This trait replaces the Infernal Legacy trait."
+        }
+    },
+    "Abyssal Tiefling (UA)": {
+        "Info": "All abyssal tieflings trace their bloodline to the demons of the Abyss. These tieflings have the following additional features.",
+        "Source": "Unearthed Arcana 11 - That Old Black Magic",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Your Constitution score increases by 1."
+        },
+        "Abyssal Arcana": {
+            "text": "Abyssal Arcana: Each time you finish a long rest, you gain the ability to cast cantrips and spells randomly determined from a short list. At 1st level, you can cast a cantrip. When you reach 3rd level, you can also cast a 1st-level spell. At 5th level, you can cast a 2nd-level spell.\n\nYou can cast a spell gained from this trait only once until you complete your next long rest. You can cast a cantrip gained from this trait at will, as normal. For 1st-level spells whose effect changes if cast using a spell slot of 2nd level or higher, you cast the spell as if using a 2nd-level slot. Spells of 2nd level are cast as if using a 2nd-level slot.\nAt the end of each long rest, you lose the cantrips and spells previously granted by this feature, even if you did not cast them. You replace those cantrips and spells by rolling for new ones on the Abyssal Arcana Spells table. Roll separately for each cantrip and spell. If you roll the same spell or cantrip you gained at the end of your previous long rest, roll again until you get a different result.\n\n",
+            "Addition info": [
+                "You can cast a spell gained from this trait only once until you complete your next long rest. You can cast a cantrip gained from this trait at will, as normal. For 1st-level spells whose effect changes if cast using a spell slot of 2nd level or higher, you cast the spell as if using a 2nd-level slot. Spells of 2nd level are cast as if using a 2nd-level slot.",
+                "At the end of each long rest, you lose the cantrips and spells previously granted by this feature, even if you did not cast them. You replace those cantrips and spells by rolling for new ones on the Abyssal Arcana Spells table. Roll separately for each cantrip and spell. If you roll the same spell or cantrip you gained at the end of your previous long rest, roll again until you get a different result."
+            ]
+        },
+        "Abyssal Fortitude": {
+            "text": "Abyssal Fortitude: Your hit point maximum increases by half your level (minimum 1)."
+        },
+        "Languages": {
+            "text": "Languages: You can speak, read, and write Abyssal."
+        },
+        "Abyssal Arcana Spells": [
+            {
+                "d6": "1",
+                "1st Level": "Dancing Lights",
+                "3rd Level": "Burning Hands",
+                "5th Level": "Alter Self"
+            },
+            {
+                "d6": "2",
+                "1st Level": "True Strike",
+                "3rd Level": "Charm Person",
+                "5th Level": "Darkness"
+            },
+            {
+                "d6": "3",
+                "1st Level": "Light",
+                "3rd Level": "Magic Missile",
+                "5th Level": "Invisibility"
+            },
+            {
+                "d6": "4",
+                "1st Level": "Message",
+                "3rd Level": "Cure Wounds",
+                "5th Level": "Levitate"
+            },
+            {
+                "d6": "5",
+                "1st Level": "Spare the Dying",
+                "3rd Level": "Tasha's Hideous Laughter",
+                "5th Level": "Mirror Image"
+            },
+            {
+                "d6": "6",
+                "1st Level": "Prestidigitation",
+                "3rd Level": "Thunderwave",
+                "5th Level": "Spider Climb"
+            }
+        ]
+    }
+}

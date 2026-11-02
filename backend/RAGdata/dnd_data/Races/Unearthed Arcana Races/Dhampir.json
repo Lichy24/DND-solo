@@ -1,0 +1,108 @@
+{
+    "Name": "Dhampir (UA)",
+    "Description": "Poised between the worlds of the living and the dead, dhampirs retain their grip on life yet are endlessly tested by vicious hungers. Their ties to the undead grant dhampirs a taste of a vampire’s deathless prowess in the form of increased speed, darkvision, and a life-draining bite. With unique insights into the nature of the undead, many dhampirs turn to the lives of adventurers and monster hunters. Their reasons are often deeply personal. Some seek danger, imagining monsters as personifications of their own hungers. Others pursue revenge against whatever turned them into a dhampir. And still others embrace the solitude of the hunt, striving to distance themselves from those who’d tempt their hunger.\n",
+    "Dhampir Hungers": {
+        "Dhampir Hungers": [
+            {
+                "d8": "1",
+                "Hunger": "Blood"
+            },
+            {
+                "d8": "2",
+                "Hunger": "Flesh or raw meat"
+            },
+            {
+                "d8": "3",
+                "Hunger": "Cerebral spinal fluid"
+            },
+            {
+                "d8": "4",
+                "Hunger": "Esoteric humors"
+            },
+            {
+                "d8": "5",
+                "Hunger": "Psychic energy"
+            },
+            {
+                "d8": "6",
+                "Hunger": "A color from one’s appearance"
+            },
+            {
+                "d8": "7",
+                "Hunger": "Dreams"
+            },
+            {
+                "d8": "8",
+                "Hunger": "Life energy"
+            }
+        ]
+    },
+    "Dhampir Origins": {
+        "Dhampir Origins": [
+            {
+                "d8": "1",
+                "Origin": "You are the reincarnation of an ancestor who was a vampiric tyrant."
+            },
+            {
+                "d8": "2",
+                "Origin": "Your pact with a predatory deity, fiend, fey, or spirit causes you to share their hunger."
+            },
+            {
+                "d8": "3",
+                "Origin": "You survived being attacked by a vampire but were forever changed."
+            },
+            {
+                "d8": "4",
+                "Origin": "A parasite inhabits your body. You indulge your hunger to sate it."
+            },
+            {
+                "d8": "5",
+                "Origin": "You loved an immortal and were willing to be transformed into a vampire to join them, but tragedy interrupted the transformation."
+            },
+            {
+                "d8": "6",
+                "Origin": "You are a diminished manifestation of an otherworldly being. Slaking your hunger hastens your renewal."
+            },
+            {
+                "d8": "7",
+                "Origin": "You don’t know your origins, but you were raised by vampires or other monsters."
+            },
+            {
+                "d8": "8",
+                "Origin": "A radical experiment changed your body, making you reliant on others for vital fluids."
+            }
+        ]
+    },
+    "Dhampir Traits": {
+        "Source": "Unearthed Arcana 76 - Gothic Lineages",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Increase one ability score by 2, and increase a different one by 1."
+        },
+        "Type": {
+            "text": "Type: Humanoid and Undead"
+        },
+        "Size": {
+            "text": "Size: Medium or Small (choose when you gain this lineage)"
+        },
+        "Speed": {
+            "text": "Speed: 35 feet"
+        },
+        "Darkvision": {
+            "text": "Darkvision: You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light."
+        },
+        "Spider Climb": {
+            "text": "Spider Climb: You have a climbing speed equal to your walking speed. In addition, at 3rd level, you can move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free."
+        },
+        "Vampiric Bite": {
+            "text": "Vampiric Bite: Your fanged bite is a natural weapon, which counts as a simple melee weapon with which you are proficient. You add your Constitution modifier to the attack and damage rolls when you attack with your bite. Your bite deals 1d4 piercing damage on a hit. While you are missing half or more of your hit points, you have advantage on attack rolls you make with this bite. When you use your bite and hit a creature that isn’t a Construct or an Undead, you can empower yourself in one of the following ways of your choice:\n\n\n\nregain hit points equal to the damage dealt by the bite\ngain a bonus to the next ability check or attack roll you make; the bonus equals the damage dealt by the bite\n\n\nYou can empower yourself with your bite a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.\n\n",
+            "Addition info": [
+                "regain hit points equal to the damage dealt by the bite",
+                "gain a bonus to the next ability check or attack roll you make; the bonus equals the damage dealt by the bite",
+                "You can empower yourself with your bite a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+            ]
+        },
+        "Languages": {
+            "text": "Languages: You can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character."
+        }
+    }
+}

@@ -1,0 +1,267 @@
+{
+    "Name": "Dragonborn",
+    "Description": "The dragonborn walk proudly through a world that greets them with fearful incomprehension. Shaped by the dragons themselves, dragonborn originally hatched from dragon eggs as a unique race, combining the best attributes of dragons and humanoids.",
+    "Dragonborn Features": {
+        "Age": {
+            "text": "Age: Young dragonborn grow quickly. They walk hours after hatching, attain the size and development of a 10-year-old human child by the age of 3, and reach adulthood by 15. They live to be around 80."
+        },
+        "Alignment": {
+            "text": "Alignment: Dragonborn tend towards extremes, making a conscious choice for one side or the other between Good and Evil (represented by Bahamut and Tiamat, respectively). More side with Bahamut than Tiamat (whose non-dragon followers are mostly kobolds), but villainous dragonborn can be quite terrible indeed. Some rare few choose to devote themselves to lesser dragon deities, such as Chronepsis (Neutral), and fewer still choose to worship Io, the Ninefold Dragon, who is all alignments at once."
+        },
+        "Size": {
+            "text": "Size: Dragonborn are taller and heavier than humans, standing well over 6 feet tall and averaging almost 250 pounds. Your size is Medium."
+        },
+        "Speed": {
+            "text": "Speed: Your base walking speed is 30 feet."
+        },
+        "Draconic Ancestry": {
+            "text": "Draconic Ancestry: You are distantly related to a particular kind of dragon. Choose a type of dragon from the below list; this determines the damage and area of your breath weapon, and the type of resistance you gain."
+        },
+        "Breath Weapon": {
+            "text": "Breath Weapon: You can use your action to exhale destructive energy. It deals damage in an area according to your ancestry. When you use your breath weapon, all creatures in the area must make a saving throw, the type of which is determined by your ancestry. The DC of this saving throw is 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increase to 3d6 at 6th level, 4d6 at 11th, and 5d6 at 16th level. After using your breath weapon, you cannot use it again until you complete a short or long rest. HBInstead, you may use your breath weapon a number of times equal to your Constitution modifier. You regain expended uses on a short or long rest."
+        },
+        "Languages": {
+            "text": "Languages: You can read, speak, and write Common and Draconic."
+        },
+        "Draconic Ancestry.": [
+            {
+                "Dragon Color": "Black",
+                "Damage Type": "Acid",
+                "Breath Weapon": "5' by 30' line (DEX save)"
+            },
+            {
+                "Dragon Color": "Blue",
+                "Damage Type": "Lightning",
+                "Breath Weapon": "5' by 30' line (DEX save)"
+            },
+            {
+                "Dragon Color": "Brass",
+                "Damage Type": "Fire",
+                "Breath Weapon": "5' by 30' line (DEX save)"
+            },
+            {
+                "Dragon Color": "Bronze",
+                "Damage Type": "Lightning",
+                "Breath Weapon": "5' by 30' line (DEX save)"
+            },
+            {
+                "Dragon Color": "Copper",
+                "Damage Type": "Acid",
+                "Breath Weapon": "5' by 30' line (DEX save)"
+            },
+            {
+                "Dragon Color": "Gold",
+                "Damage Type": "Fire",
+                "Breath Weapon": "15' cone (DEX save)"
+            },
+            {
+                "Dragon Color": "Green",
+                "Damage Type": "Poison",
+                "Breath Weapon": "15' cone (CON save)"
+            },
+            {
+                "Dragon Color": "Red",
+                "Damage Type": "Fire",
+                "Breath Weapon": "15' cone (DEX save)"
+            },
+            {
+                "Dragon Color": "Silver",
+                "Damage Type": "Cold",
+                "Breath Weapon": "15' cone (CON save)"
+            },
+            {
+                "Dragon Color": "White",
+                "Damage Type": "Cold",
+                "Breath Weapon": "15' cone (CON save)"
+            }
+        ]
+    },
+    "Standard Dragonborn": {
+        "Source": "Player's Handbook",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Your Strength score increases by 2, and your Charisma score increases by 1."
+        },
+        "Damage Resistance": {
+            "text": "Damage Resistance: You have resistance to the damage type associated with your ancestry."
+        }
+    },
+    "Draconblood": {
+        "Source": "Explorer's Guide to Wildemount",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Your Intelligence score increases by 2, and your Charisma score increases by 1."
+        },
+        "Darkvision": {
+            "text": "Darkvision: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+        },
+        "Forceful Presence": {
+            "text": "Forceful Presence: When you make a Intimidation or Persuasion check, you can do so with advantage once per long rest."
+        }
+    },
+    "Ravenite": {
+        "Source": "Explorer's Guide to Wildemount",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Your Strength score increases by 2, and your Constitution score increases by 1."
+        },
+        "Darkvision": {
+            "text": "Darkvision: You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray."
+        },
+        "Vengeful Assault": {
+            "text": "Vengeful Assault: When you take damage from a creature in range of a weapon you are wielding, you can use your reaction to make an attack against that creature. You can do this once per short or long rest."
+        }
+    },
+    "Chromatic Dragonborn (UA)": {
+        "Source": "Unearthed Arcana 78 - Draconic Options",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Increase one ability score by 2 and increase a different one by 1, or you increase three different scores by 1."
+        },
+        "Type": {
+            "text": "Type: You are a Humanoid."
+        },
+        "Size": {
+            "text": "Size: You are Medium."
+        },
+        "Speed": {
+            "text": "Speed: Your walking speed is 30 feet."
+        },
+        "Chromatic Ancestry": [
+            {
+                "Dragon": "Black",
+                "Damage Type": "Acid"
+            },
+            {
+                "Dragon": "Blue",
+                "Damage Type": "Lightning"
+            },
+            {
+                "Dragon": "Green",
+                "Damage Type": "Poison"
+            },
+            {
+                "Dragon": "Red",
+                "Damage Type": "Fire"
+            },
+            {
+                "Dragon": "White",
+                "Damage Type": "Cold"
+            }
+        ],
+        "Breath Weapon": {
+            "text": "Breath Weapon: When you take the Attack action, you can replace one of your attacks with an exhalation of a magical energy in a 30-foot line that is 5 feet wide. Each creature in the area must make a Dexterity saving throw against a DC equal to 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d8 damage of the type associated with your Chromatic Ancestry on a failed save, and half as much damage on a successful one. This damage increases by 1d8 when you reach 5th level (3d8), 11th level (4d8), and 17th level (5d8). You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+        },
+        "Draconic Resistance": {
+            "text": "Draconic Resistance: You have resistance to the damage type associated with your Chromatic Ancestry."
+        },
+        "Chromatic Warding": {
+            "text": "Chromatic Warding: Starting at 3rd level, as an action, you can channel your draconic energies to protect yourself. For 10 minutes, you become immune to the damage type associated with your Chromatic Ancestry. Once you use this trait, you can’t do so again until you finish a long rest."
+        },
+        "Languages": {
+            "text": "Languages: You can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character."
+        }
+    },
+    "Metallic Dragonborn (UA)": {
+        "Source": "Unearthed Arcana 78 - Draconic Options",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Increase one ability score by 2 and increase a different one by 1, or you increase three different scores by 1."
+        },
+        "Type": {
+            "text": "Type: You are a Humanoid."
+        },
+        "Size": {
+            "text": "Size: You are Medium."
+        },
+        "Speed": {
+            "text": "Speed: Your walking speed is 30 feet."
+        },
+        "Metallic Ancestry": [
+            {
+                "Dragon": "Brass",
+                "Damage Type": "Fire"
+            },
+            {
+                "Dragon": "Bronze",
+                "Damage Type": "Lightning"
+            },
+            {
+                "Dragon": "Copper",
+                "Damage Type": "Acid"
+            },
+            {
+                "Dragon": "Gold",
+                "Damage Type": "Fire"
+            },
+            {
+                "Dragon": "Silver",
+                "Damage Type": "Cold"
+            }
+        ],
+        "Breath Weapon": {
+            "text": "Breath Weapon: When you take the Attack action, you can replace one of your attacks with an exhalation of a magical energy in a 15-foot cone. Each creature in the area must make a Dexterity saving throw against a DC equal to 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d8 damage of the type associated with your Metallic Ancestry on a failed save, and half as much damage on a successful one. This damage increases by 1d8 when you reach 5th level (3d8), 11th level (4d8), and 17th level (5d8). You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+        },
+        "Draconic Resistance": {
+            "text": "Draconic Resistance: You have resistance to the damage type associated with your Metallic Ancestry."
+        },
+        "Metallic Breath Weapon": {
+            "text": "Metallic Breath Weapon: At 3rd level you gain a second breath weapon. When you take the Attack action, you can replace one of your attacks with an exhalation of a magical gas in a 15-foot cone. The save DC for this breath is 8 + your Constitution modifier + your proficiency bonus. When you use this ability, choose one:\n\n\n\nEach creature in the area must succeed on a Strength saving throw or be pushed 20 feet away from you and be knocked prone.\nEach creature in the area must succeed on a Constitution saving throw or become incapacitated until the start of your next turn.\n\n\nOnce you use your Metallic Breath Weapon, you can’t do so again until you finish a long rest.\n\n",
+            "Addition info": [
+                "Each creature in the area must succeed on a Strength saving throw or be pushed 20 feet away from you and be knocked prone.",
+                "Each creature in the area must succeed on a Constitution saving throw or become incapacitated until the start of your next turn.",
+                "Once you use your Metallic Breath Weapon, you can’t do so again until you finish a long rest."
+            ]
+        },
+        "Languages": {
+            "text": "Languages: You can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character."
+        }
+    },
+    "Gem Dragonborn (UA)": {
+        "Source": "Unearthed Arcana 78 - Draconic Options",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Increase one ability score by 2 and increase a different one by 1, or you increase three different scores by 1."
+        },
+        "Type": {
+            "text": "Type: You are a Humanoid."
+        },
+        "Size": {
+            "text": "Size: You are Medium."
+        },
+        "Speed": {
+            "text": "Speed: Your walking speed is 30 feet."
+        },
+        "Gem Ancestry": [
+            {
+                "Dragon": "Amethyst",
+                "Damage Type": "Force"
+            },
+            {
+                "Dragon": "Crystal",
+                "Damage Type": "Radiant"
+            },
+            {
+                "Dragon": "Emerald",
+                "Damage Type": "Psychic"
+            },
+            {
+                "Dragon": "Sapphire",
+                "Damage Type": "Thunder"
+            },
+            {
+                "Dragon": "Topaz",
+                "Damage Type": "Necrotic"
+            }
+        ],
+        "Breath Weapon": {
+            "text": "Breath Weapon: When you take the Attack action, you can replace one of your attacks with an exhalation of a magical energy in a 15-foot cone. Each creature in the area must make a Dexterity saving throw against a DC equal to 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d8 damage of the type associated with your Gem Ancestry on a failed save, and half as much damage on a successful one. This damage increases by 1d8 when you reach 5th level (3d8), 11th level (4d8), and 17th level (5d8). You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+        },
+        "Draconic Resistance": {
+            "text": "Draconic Resistance: You have resistance to the damage type associated with your Gem Ancestry."
+        },
+        "Psionic Mind": {
+            "text": "Psionic Mind: You can telepathically speak to any creature you can see within 30 feet of you. You don’t need to share a language with the creature, but the creature must be able to understand at least one language. Your communication doesn’t give the creature the ability to respond to you telepathically."
+        },
+        "Gem Flight": {
+            "text": "Gem Flight: Starting at 3rd level, you can use your bonus action to temporarily summon an array of spectral gems that match your Gem Ancestry in the shape of wings that last for 1 minute. For the duration, you gain a flying speed equal to your walking speed and can hover. Once you use this trait, you can’t do so again until you finish a long rest."
+        },
+        "Languages": {
+            "text": "Languages: You can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character."
+        }
+    }
+}

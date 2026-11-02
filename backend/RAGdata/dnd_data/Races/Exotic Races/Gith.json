@@ -1,0 +1,200 @@
+{
+    "Name": "Gith",
+    "Description": "The warlike githyanki and the contemplative githzerai are a sundered people – two cultures that utterly despise one another. The brutal githyanki are trained from birth as warriors, while the githzerai hone their minds to a razor’s edge in their fortresses within Limbo. But before there were githyanki or githzerai, these creatures were a single race enslaved by the illithids.",
+    "Gith Features": {
+        "Source": "Mordenkainen's Tome of Foes",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Your Intelligence score increases by 1."
+        },
+        "Age": {
+            "text": "Age: Gith reach adulthood in their late teens and live for about a century."
+        },
+        "Size": {
+            "text": "Size: Gith are taller and leaner than humans, with most a slender 6 feet in height. Your size is Medium."
+        },
+        "Speed": {
+            "text": "Speed: Your base walking speed is 30 feet."
+        },
+        "Languages": {
+            "text": "Languages: You can speak, read, and write Common and Gith."
+        }
+    },
+    "Githyanki": {
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Your Strength score increases by 2."
+        },
+        "Alignment": {
+            "text": "Alignment: Githyanki tend toward lawful evil. They are aggressive and arrogant, and they remain the faithful servants of their lich-queen, Vlaakith. Renegade githyanki tend toward chaos."
+        },
+        "Decadent Mastery": {
+            "text": "Decadent Mastery: You learn one language of your choice, and you are proficient with one skill or tool of your choice. In the timeless city of Tu'narath, githyanki have bountiful time to master odd bits of knowledge."
+        },
+        "Martial Prodigy": {
+            "text": "Martial Prodigy: You are proficient with light and medium armor and with shortswords, longswords, and greatswords."
+        },
+        "Githyanki Psionics": {
+            "text": "Githyanki Psionics: You know the Mage Hand cantrip, and the hand is invisible when you cast the cantrip with this trait.\n\nWhen you reach 3rd level, you can cast the Jump spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Misty Step spell once with this trait, and you regain the ability to do so when you finish a long rest.\nIntelligence is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.\n\n",
+            "Addition info": [
+                "When you reach 3rd level, you can cast the Jump spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Misty Step spell once with this trait, and you regain the ability to do so when you finish a long rest.",
+                "Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they don't require components."
+            ]
+        },
+        "Githyanki Character Concepts": [
+            {
+                "d4": "1",
+                "Githyanki Personality Trait": "When I'm bored I make my own excitement, and I'm always bored."
+            },
+            {
+                "d4": "2",
+                "Githyanki Personality Trait": "I treat others as if they were animals that simply don't know any better."
+            },
+            {
+                "d4": "3",
+                "Githyanki Personality Trait": "Violence is a spice that makes life worth living."
+            },
+            {
+                "d4": "4",
+                "Githyanki Personality Trait": "Old age is a concept that I find fascinating. Maybe someday I too will be aged."
+            },
+            {},
+            {
+                "d4": "1",
+                "Githyanki Personality Trait": "Fidelity. Warriors are only as good as the vows they keep."
+            },
+            {
+                "d4": "2",
+                "Githyanki Personality Trait": "Power. The weak rule the strong."
+            },
+            {
+                "d4": "3",
+                "Githyanki Personality Trait": "Duty. It is by Vlaakith's will alone that I act."
+            },
+            {
+                "d4": "4",
+                "Githyanki Personality Trait": "Freedom. No strong soul should be enslaved. Better to die first than live as another's puppet."
+            },
+            {},
+            {
+                "d4": "1",
+                "Githyanki Personality Trait": "There is no greater duty than to serve the Revered Queen."
+            },
+            {
+                "d4": "2",
+                "Githyanki Personality Trait": "Humanity thrives only because we conquered the illithids. Therefore, what is theirs is ours."
+            },
+            {
+                "d4": "3",
+                "Githyanki Personality Trait": "Without battle, life has no purpose."
+            },
+            {
+                "d4": "4",
+                "Githyanki Personality Trait": "Life is but a spark in the dark. We all go dark, but those who dare can burn bright."
+            },
+            {},
+            {
+                "d4": "1",
+                "Githyanki Personality Trait": "Hunger and thirst are unbearable pains to me."
+            },
+            {
+                "d4": "2",
+                "Githyanki Personality Trait": "I can't see a non-githyanki as a real threat."
+            },
+            {
+                "d4": "3",
+                "Githyanki Personality Trait": "I follow orders, regardless of their implications."
+            },
+            {
+                "d4": "4",
+                "Githyanki Personality Trait": "I start projects but never finish them."
+            }
+        ]
+    },
+    "Githzerai": {
+        "Info": "In their fortresses within Limbo, the githzerai hone their minds to a razor's edge.",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Your Wisdom score increases by 2."
+        },
+        "Alignment": {
+            "text": "Alignment: Githzerai tend toward lawful neutral. Their rigorous training in psychic abilities requires an implacable mental discipline."
+        },
+        "Mental Discipline": {
+            "text": "Mental Discipline: You have advantage on saving throws against the charmed and frightened conditions. Under the tutelage of monastic masters, githzerai learn to govern their own minds."
+        },
+        "Githzerai Psionics": {
+            "text": "Githzerai Psionics: You know the Mage Hand cantrip, and the hand is invisible when you cast the cantrip with this trait.\n\nWhen you reach 3rd level, you can cast the Shield spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Detect Thoughts spell once with this trait, and you regain the ability to do so when you finish a long rest.\nWisdom is your spellcasting ability for these spells. When you cast them with this trait, they don't require components.\n\n",
+            "Addition info": [
+                "When you reach 3rd level, you can cast the Shield spell once with this trait, and you regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the Detect Thoughts spell once with this trait, and you regain the ability to do so when you finish a long rest.",
+                "Wisdom is your spellcasting ability for these spells. When you cast them with this trait, they don't require components."
+            ]
+        },
+        "Githzerai Character Concepts": [
+            {
+                "d4": "1",
+                "Githzerai Personality Trait": "All energy must be expended to a useful end. Frivolity is the first step to defeat."
+            },
+            {
+                "d4": "2",
+                "Githzerai Personality Trait": "Patience in all things. The first step in any venture is the most treacherous."
+            },
+            {
+                "d4": "3",
+                "Githzerai Personality Trait": "Emotions are a trap, meant to weaken the intellect and disturb the nerves. Pay them no heed."
+            },
+            {
+                "d4": "4",
+                "Githzerai Personality Trait": "Begin only those tasks you will finish. Strike only that which you will kill."
+            },
+            {},
+            {
+                "d4": "1",
+                "Githzerai Personality Trait": "Faith. Zerthimon shall return, and I will be worthy to walk beside him."
+            },
+            {
+                "d4": "2",
+                "Githzerai Personality Trait": "Courage. The mind can master anything if it is unfettered by fear."
+            },
+            {
+                "d4": "3",
+                "Githzerai Personality Trait": "Duty. My people survive only because those like me place their needs above our own."
+            },
+            {
+                "d4": "4",
+                "Githzerai Personality Trait": "Freedom. No strong soul should be enslaved. Better to die first than live as another's puppet."
+            },
+            {},
+            {
+                "d4": "1",
+                "Githzerai Personality Trait": "Zerthimon provides an example of conduct that I strive to duplicate."
+            },
+            {
+                "d4": "2",
+                "Githzerai Personality Trait": "Menyar-Ag hand-picked me for my duties, and I will never betray the trust he showed in me."
+            },
+            {
+                "d4": "3",
+                "Githzerai Personality Trait": "Vlaakith and her toadies will be defeated, if not by me then by those who follow in my footsteps."
+            },
+            {
+                "d4": "4",
+                "Githzerai Personality Trait": "I will not rest until the last elder brain is destroyed."
+            },
+            {},
+            {
+                "d4": "1",
+                "Githzerai Personality Trait": "I see githyanki machinations behind every threat."
+            },
+            {
+                "d4": "2",
+                "Githzerai Personality Trait": "I believe in the supremacy of the gith and that githzerai and githyanki will align to rule the multiverse."
+            },
+            {
+                "d4": "3",
+                "Githzerai Personality Trait": "I respond to even minor threats with overwhelming displays of force."
+            },
+            {
+                "d4": "4",
+                "Githzerai Personality Trait": "The next time I laugh will be the first. The sound of merriment takes me to the edge of violence."
+            }
+        ]
+    }
+}

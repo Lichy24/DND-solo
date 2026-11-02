@@ -1,0 +1,31 @@
+{
+    "Name": "Fairy (UA)",
+    "Description": "The Feywild is home to many fantastic peoples, including fairies. Fairies are a wee folk, but not\nnearly as much so as their pixie and sprite friends.\n",
+    "Fairy Traits": {
+        "Source": "Unearthed Arcana 77 - Folk of the Feywild",
+        "Ability Score Increase": {
+            "text": "Ability Score Increase: Increase one ability score by 2, and increase a different one by 1."
+        },
+        "Type": {
+            "text": "Type: You are a Fey."
+        },
+        "Size": {
+            "text": "Size: Your size is Small."
+        },
+        "Speed": {
+            "text": "Speed: Your walking speed is 30 feet."
+        },
+        "Fairy Flight": {
+            "text": "Fairy Flight: You have a flying speed equal to your walking speed and can hover. This flight is magical and does not require the use of your wings (if you have them)."
+        },
+        "Fairy Magic": {
+            "text": "Fairy Magic: You know the Druidcraft and Faerie Fire spells. You can cast Faerie Fire without expending a spell slot, and you must finish a long rest before you can cast it this way again. You can also cast this spell using any spell slots you have. Your spellcasting ability for these spells is your choice of Intelligence, Wisdom, or Charisma."
+        },
+        "Fey Passage": {
+            "text": "Fey Passage: You can squeeze through a space as narrow as 1 inch wide."
+        },
+        "Languages": {
+            "text": "Languages: You can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character."
+        }
+    }
+}
